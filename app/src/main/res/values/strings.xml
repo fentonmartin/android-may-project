@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">May Project</string>
+
+    <string name="m01_name">Museum Nasional</string>
+    <string name="m01_desb">Museum dengan ragam koleksi paling lengkap di Indonesia. Jumlah koleksi...</string>
+    <string name="m01_desc">Museum dengan ragam koleksi paling lengkap di Indonesia. Jumlah koleksi yang dimiliki museum ini ada sekitar 140.000 unit, yang terdiri dari arca kuno, prasasti, keramik, tekstil, dan benda pusaka, yang dikategorikan secara etnografis. Koleksi keramik dan etnografi Indonesia di museum ini adalah yang terbanyak dan paling lengkap di seluruh dunia.</string>
+    <string name="m01_almt">Jl. Medan Merdeka Barat No. 12, Central Jakarta</string>
+    <string name="m01_telp">(62-21) 3868172</string>
+    <string name="m01_srce">http://www.jakarta-tourism.go.id/node/533?language=id</string>
+
 </resources>
