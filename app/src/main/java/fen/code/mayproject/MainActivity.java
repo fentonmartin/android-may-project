@@ -1,10 +1,6 @@
 package fen.code.mayproject;
 
-import android.Manifest;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.net.Uri;
-import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -22,12 +18,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     void m01_desc(View view) {
-        TextView desc01 = (TextView) findViewById(R.id.textDesc01);
-        assert desc01 != null;
-        if (desc01.getVisibility() == View.GONE) {
-            desc01.setVisibility(View.VISIBLE);
+        TextView descm01 = (TextView) findViewById(R.id.textDescm01);
+        assert descm01 != null;
+        if (descm01.getVisibility() == View.GONE) {
+            descm01.setVisibility(View.VISIBLE);
         } else {
-            desc01.setVisibility(View.GONE);
+            descm01.setVisibility(View.GONE);
         }
     }
 

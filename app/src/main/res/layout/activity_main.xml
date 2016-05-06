@@ -95,7 +95,7 @@
                 android:textColor="@color/colorTextWhite"
                 android:background="#55000000"
                 android:textSize="@dimen/text_content"
-                android:id="@+id/textDesc01"
+                android:id="@+id/textDescm01"
                 android:visibility="gone" />
 
         </LinearLayout>
